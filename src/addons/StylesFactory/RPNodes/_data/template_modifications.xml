@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="admin" template="forum_edit" modification_key="corenodes_new_item_now" execution_order="2" enabled="1" action="preg_replace">
+    <find><![CDATA[#<xf:macro template="node_edit_macros" name="description".*\/>#sU]]></find>
+    <replace><![CDATA[$0
+			<xf:macro template="corenodesonetwo" name="corenodes" arg-node="{$node}" />
+]]></replace>
+  </modification>
+    <modification type="admin" template="forum_edit" modification_key="corenodes_new_item2_now" execution_order="1" enabled="1" action="preg_replace">
+    <find><![CDATA[#<xf:macro template="node_edit_macros" name="description".*\/>#sU]]></find>
+    <replace><![CDATA[$0
+			<xf:macro template="corenodestwothree" name="corenodes2" arg-node="{$node}" />
+]]></replace>
+  </modification>  
+</template_modifications>

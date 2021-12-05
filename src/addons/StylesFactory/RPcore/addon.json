@@ -1,0 +1,12 @@
+{
+    "legacy_addon_id": "",
+    "title": "RolePlay Core",
+    "description": "Main settings for RolePlay!",
+    "version_id": 62419433,
+    "version_string": "1.0.0",
+    "dev": "Matti",
+    "dev_url": "http://www.stylesfactory.pl",
+    "support_url": "http://stylesfactory.pl/contact/",
+    "require": [],
+    "icon": "logo.png"
+}

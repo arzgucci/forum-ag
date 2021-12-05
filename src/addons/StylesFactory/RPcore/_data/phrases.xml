@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="admin_navigation.rp_allmenu" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[RolePlay Options]]></phrase>
+
+  <phrase title="admin_navigation.rp_all_options" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[RolePlay Announcement]]></phrase>
+  <phrase title="admin_navigation.rp_all_options_ann" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[RolePlay Footer]]></phrase>
+  <phrase title="admin_navigation.rp_all_options_foo" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[RolePlay Logo]]></phrase>
+  
+  
+	<phrase title="permission.RP_GroupAnn_RP_annsee" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[Show announcement]]></phrase>
+</phrases>
+

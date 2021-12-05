@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="RP_logo_onoff" edit_format="onoff" data_type="string">
+    <default_value>1</default_value>
+    <relation group_id="RP_logo_awesome" display_order="1"/>
+  </option>	
+  <option option_id="RP_logo_content" edit_format="textbox" data_type="string">
+    <default_value>RolePlay Theme</default_value>
+    <edit_format_params>rows=1</edit_format_params>
+    <relation group_id="RP_logo_awesome" display_order="2"/>
+  </option>
+  <option option_id="RP_logo_content_two" edit_format="textbox" data_type="string">
+    <default_value>Put here short description of your server or community</default_value>
+    <edit_format_params>rows=1</edit_format_params>
+    <relation group_id="RP_logo_awesome" display_order="3"/>
+  </option> 
+  <option option_id="RP_logo_content_small" edit_format="textbox" data_type="string">
+    <default_value>RPTheme</default_value>
+    <edit_format_params>rows=1</edit_format_params>
+    <relation group_id="RP_logo_awesome" display_order="4"/>
+  </option> 
+  <option option_id="RP_logo_content_background" edit_format="textbox" data_type="string">
+    <default_value>styles/roleplay/header_background.jpg</default_value>
+    <edit_format_params>rows=1</edit_format_params>
+    <relation group_id="RP_logo_awesome" display_order="4"/>
+  </option>   
+</options>

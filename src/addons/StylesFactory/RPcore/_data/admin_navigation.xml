@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<admin_navigation>
+  <admin_navigation_entry navigation_id="rp_allmenu" display_order="1" link="allop-menu" icon="fa-dice-d6" debug_only="0" hide_no_children="0"/>
+  <admin_navigation_entry navigation_id="rp_all_options" parent_navigation_id="rp_allmenu" display_order="2" link="options/groups/RP_announcement_awesome/" debug_only="0" hide_no_children="0"/>
+  <admin_navigation_entry navigation_id="rp_all_options_ann" parent_navigation_id="rp_allmenu" display_order="3" link="options/groups/RP_footer_awesome/" debug_only="0" hide_no_children="0"/>
+  <admin_navigation_entry navigation_id="rp_all_options_foo" parent_navigation_id="rp_allmenu" display_order="4" link="options/groups/RP_logo_awesome/" debug_only="0" hide_no_children="0"/>
+</admin_navigation>

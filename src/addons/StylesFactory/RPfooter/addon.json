@@ -1,0 +1,12 @@
+{
+    "legacy_addon_id": "",
+    "title": "RolePlay Footer",
+    "description": "Set some options for your footer!",
+    "version_id": 52429233,
+    "version_string": "1.0.0",
+    "dev": "Szwaben",
+    "dev_url": "http://www.stylesfactory.pl",
+    "support_url": "http://stylesfactory.pl/contact/",
+    "require": [],
+    "icon": "logo.png"
+}

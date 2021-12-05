@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="admin" title="corenodesonetwo" version_id="29292929" version_string="1.0.0">
+  <![CDATA[
+<xf:macro name="corenodes" arg-node="!" arg-name="mybackground">
+<hr class="formRowSep" />
+<dl class="formRow formRow--input">
+	<dt>
+		<div class="formRow-labelWrapper">
+		<label class="formRow-label">Forum Icon</label></div>
+	</dt>
+	<dd>
+		<div class="{$name}">
+			<xf:textbox name="{$name}[filtersetting]" value="{$node.iconca.{$name}.filtersetting}" />
+			<span style="font-size:10px;">Remember to use whole link URL. Example: http://www.domain.com/image.png</span><br />
+			<xf:if is="{$node.iconca.{$name}.filtersetting}"><img src="{$node.iconca.mybackground.filtersetting}" style="width:100px; height:100px;"></xf:if>
+		</div>
+	</dd>
+</dl>
+<hr class="formRowSep" />
+</xf:macro>
+]]>
+</template>
+  <template type="admin" title="corenodestwothree" version_id="29292929" version_string="1.0.0">
+  <![CDATA[
+<xf:macro name="corenodes2" arg-node="!" arg-name="widthcontroller">
+<hr class="formRowSep" />
+<dl class="formRow formRow--input">
+	<dt>
+		<div class="formRow-labelWrapper">
+		<label class="formRow-label">Forum Cover</label></div>
+	</dt>
+	<dd>
+		<div class="{$name}">
+			<xf:textbox name="node[catfor]" value="{$node.catfor}" />
+			<span style="font-size:10px;">Remember to use whole link URL. Example: http://www.domain.com/image.png</span><br />
+			<xf:if is="{$node.catfor}">
+				<img src="{$node.catfor}" style="width:500px; height:150px;">
+			</xf:if>
+		</div>
+	</dd>
+</dl>
+<hr class="formRowSep" />
+</xf:macro>]]>
+	</template>	
+</templates>

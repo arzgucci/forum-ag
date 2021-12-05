@@ -1,0 +1,12 @@
+{
+    "legacy_addon_id": "",
+    "title": "RolePlay Announcement",
+    "description": "Set some announcement for your users!",
+    "version_id": 62429233,
+    "version_string": "1.0.0",
+    "dev": "Matti",
+    "dev_url": "http://www.stylesfactory.pl",
+    "support_url": "http://stylesfactory.pl/contact/",
+    "require": [],
+    "icon": "logo.png"
+}

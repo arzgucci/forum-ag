@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option.RP_footer_fi_title" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Set first panel title]]></phrase>
+  <phrase title="option.RP_footer_fi_text" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Set first panel content]]></phrase>
+  <phrase title="option.RP_footer_se_title" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Set second panel title]]></phrase>
+  <phrase title="option.RP_footer_se_text" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Set second panel content]]></phrase>
+  <phrase title="option.RP_footer_th_title" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Set third panel title]]></phrase>
+  <phrase title="option.RP_footer_th_text" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Set third panel content]]></phrase>
+  <phrase title="option.RP_footer_fo_title" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Set fourth panel title]]></phrase>
+  <phrase title="option.RP_footer_fo_text" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Set fourth panel content]]></phrase>
+  <phrase title="option_explain.RP_footer_fi_title" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[When empty will show forum statistics ]]></phrase>
+  <phrase title="option_explain.RP_footer_fi_text" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Content of first panel. If first panel title is empty, content won't be shown   ]]></phrase>
+  <phrase title="option_explain.RP_footer_se_title" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[When empty will show new profile posts ]]></phrase>
+  <phrase title="option_explain.RP_footer_se_text" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Content of second panel. If second panel title is empty, content won't be shown ]]></phrase>
+  <phrase title="option_explain.RP_footer_th_title" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[When empty will show new posts ]]></phrase>
+  <phrase title="option_explain.RP_footer_th_text" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Content of third panel. If third panel title is empty, content won't be shown ]]></phrase>
+  <phrase title="option_explain.RP_footer_fo_title" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[When empty will show members online ]]></phrase>
+  <phrase title="option_explain.RP_footer_fo_text" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Content of fourth panel. If fourth panel title is empty, content won't be shown ]]></phrase>
+  <phrase title="option_group.RP_footer_awesome" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[RolePlay Footer]]></phrase>
+  <phrase title="option_group_description.RP_footer_awesome" version_id="52329232" version_string="1.0.1" global_cache="1"><![CDATA[Make your footer great again!]]></phrase>
+</phrases>
+
+

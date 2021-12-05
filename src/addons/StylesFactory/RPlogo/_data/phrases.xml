@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option_group.RP_logo_awesome" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[RolePlay Logo]]></phrase>
+  
+  <phrase title="option_group_description.RP_logo_awesome" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[Settings for RolePlay Theme logo]]></phrase>
+  <phrase title="option.RP_logo_onoff" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[RolePlay text logo]]></phrase>
+  <phrase title="option_explain.RP_logo_onoff" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[Check to set text logo on header]]></phrase>
+  <phrase title="option.RP_logo_content" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[RolePlay big text]]></phrase>
+  <phrase title="option_explain.RP_logo_content" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[Set main text]]></phrase>
+  <phrase title="option.RP_logo_content_two" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[RolePlay small text]]></phrase>
+  <phrase title="option_explain.RP_logo_content_two" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[Set description under main text]]></phrase>
+  <phrase title="option.RP_logo_content_background" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[Header background]]></phrase>
+  <phrase title="option_explain.RP_logo_content_background" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[Set link to your background default: styles/roleplay/header_background.jpg]]></phrase> 
+  <phrase title="option.RP_logo_content_small" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[Shortname for responsive design]]></phrase>
+  <phrase title="option_explain.RP_logo_content_small" version_id="62329232" version_string="1.0.1" global_cache="1"><![CDATA[Set shortname to be visible when using mobiles default: RPTheme]]></phrase>  
+ 
+</phrases>
+
+

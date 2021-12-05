@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="RP_footer_fi_title" edit_format="textbox" data_type="string">
+    <default_value>First panel title</default_value>
+    <edit_format_params>rows=1</edit_format_params>
+    <relation group_id="RP_footer_awesome" display_order="2"/>
+  </option>	
+  <option option_id="RP_footer_fi_text" edit_format="textbox" data_type="string">
+    <default_value>First panel content</default_value>
+    <edit_format_params>rows=5</edit_format_params>
+    <relation group_id="RP_footer_awesome" display_order="3"/>
+  </option>
+  <option option_id="RP_footer_se_title" edit_format="textbox" data_type="string">
+    <default_value>Second panel title</default_value>
+    <edit_format_params>rows=1</edit_format_params>
+    <relation group_id="RP_footer_awesome" display_order="4"/>
+  </option>
+  <option option_id="RP_footer_se_text" edit_format="textbox" data_type="string">
+    <default_value>Second panel content</default_value>
+    <edit_format_params>rows=5</edit_format_params>
+    <relation group_id="RP_footer_awesome" display_order="5"/>
+  </option>
+  <option option_id="RP_footer_th_title" edit_format="textbox" data_type="string">
+    <default_value>Third panel title</default_value>
+    <edit_format_params>rows=1</edit_format_params>
+    <relation group_id="RP_footer_awesome" display_order="6"/>
+  </option>	
+  <option option_id="RP_footer_th_text" edit_format="textbox" data_type="string">
+    <default_value>
+&lt;a href="#"&gt;&lt;li&gt;YOUR LINK NAME&lt;/li&gt;&lt;/a&gt;
+&lt;a href="#"&gt;&lt;li&gt;YOUR LINK NAME&lt;/li&gt;&lt;/a&gt;
+&lt;a href="#"&gt;&lt;li&gt;YOUR LINK NAME&lt;/li&gt;&lt;/a&gt;
+&lt;a href="#"&gt;&lt;li&gt;YOUR LINK NAME&lt;/li&gt;&lt;/a&gt;
+&lt;a href="#"&gt;&lt;li&gt;YOUR LINK NAME&lt;/li&gt;&lt;/a&gt;
+	</default_value>
+    <edit_format_params>rows=5</edit_format_params>
+    <relation group_id="RP_footer_awesome" display_order="7"/>
+  </option>
+  <option option_id="RP_footer_fo_title" edit_format="textbox" data_type="string">
+    <default_value>Fourth panel title</default_value>
+    <edit_format_params>rows=1</edit_format_params>
+    <relation group_id="RP_footer_awesome" display_order="8"/>
+  </option>
+  <option option_id="RP_footer_fo_text" edit_format="textbox" data_type="string">
+    <default_value>
+&lt;a href="#"&gt;&lt;li&gt;YOUR LINK NAME&lt;/li&gt;&lt;/a&gt;
+&lt;a href="#"&gt;&lt;li&gt;YOUR LINK NAME&lt;/li&gt;&lt;/a&gt;
+&lt;a href="#"&gt;&lt;li&gt;YOUR LINK NAME&lt;/li&gt;&lt;/a&gt;
+&lt;a href="#"&gt;&lt;li&gt;YOUR LINK NAME&lt;/li&gt;&lt;/a&gt;
+&lt;a href="#"&gt;&lt;li&gt;YOUR LINK NAME&lt;/li&gt;&lt;/a&gt;
+	</default_value>
+    <edit_format_params>rows=5</edit_format_params>
+    <relation group_id="RP_footer_awesome" display_order="9"/>
+  </option>
+</options>

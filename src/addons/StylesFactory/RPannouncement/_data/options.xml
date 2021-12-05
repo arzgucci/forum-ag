@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="RP_announcement_onoff" edit_format="onoff" data_type="string">
+    <default_value>1</default_value>
+    <relation group_id="RP_announcement_awesome" display_order="1"/>
+  </option>	
+  <option option_id="RP_announcement_content" edit_format="textbox" data_type="string">
+    <default_value>Put your announcement here</default_value>
+    <edit_format_params>rows=2</edit_format_params>
+    <relation group_id="RP_announcement_awesome" display_order="2"/>
+  </option>
+</options>
